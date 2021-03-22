@@ -1,2 +1,0 @@
-,Duration_Average ,Duration_Std,Duration_Var,Src Pt_Average,Src Pt_Std,Src Pt_Var,Dst Pt_Average,Dst Pt_Std,Dst Pt_Var,Packets_Average,Packets_Std,Packets_Var,Bytes_Average,Bytes_Std,Bytes_Var,class
-1:00:00,12.023666666666665,[6.363533],[40.49455222],18175.11111111111,[22382.443365],[5.00973771e+08],18175.11111111111,[22382.443365],[5.00973771e+08],17.333333333333332,[7.54983444],[57.],2441.777777777778,[1152.53105794],[1328327.83950617],suspicious
